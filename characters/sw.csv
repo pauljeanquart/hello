@@ -1,4 +1,4 @@
-name,homeworld,species,occupation
+Name,Homeworld,Species,Occupation
 Luke Skywalker,Tatooine,Human,Jedi Master
 C-3PO,Tatooine,Droid,Protocol droid
 R2-D2,Naboo,Droid,Astromech droid
@@ -86,3 +86,4 @@ Rey Skywalker,Jakku,Human,Jedi
 Poe Dameron,Yavin 4,Human,General in the Rebel Alliance
 BB-8,Hosnian Prime,Droid,Astromech droid
 Captain Phasma,Parnassos,Human,Stormtrooper commander
+
